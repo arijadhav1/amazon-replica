@@ -1,0 +1,166 @@
+p {
+    color: aqua;
+}
+
+.lines {
+    color: gray;
+    position:relative;
+    bottom: 7px;
+    
+    
+}
+
+#middle {
+    color: gray;
+    position: relative;
+    top: 7px;
+}
+
+.bottom-unorder {
+    list-style-type: none;
+    text-align: center;
+}
+
+.bottom-bar {
+    display: inline;
+    font-size: 14px;
+    margin: 15px;
+    position: relative;
+    right: 20px;
+}
+
+.box {
+    border: solid lightgray 1px;
+    width: 400px;
+    position: relative;
+    left: 750px;
+
+
+}
+
+.end {
+    position: relative;
+    left: 824px;
+    color: black;
+}
+
+.new-amazon {
+    text-align: center;
+    font-size: 17px;
+}
+
+.second-button {
+    position: relative;
+    left: 761px;
+    height: 20px;
+    font-size: 20px;
+    
+}
+
+#change-button {
+    width: 380px;
+    font-size: 15px;
+    padding: 4px;
+    
+}
+
+#continue {
+    width: 350px;
+    background-color: #F7C548;
+    margin: 20px;
+    font-size: 15px;
+    padding: 4px;
+    
+}
+
+.move-button {
+    text-align: center;
+    
+}
+
+.need-help {
+    margin: 7px;
+    list-style-type: none;
+    position: relative;
+    right: 15px;
+    bottom: 10px;
+    
+}
+
+.symbol {
+    font-size: 7px;
+    position:relative;
+    bottom: 3px;   
+}
+
+.enter-pass {
+    width: 341px;
+    position: relative;
+    left: 20px;
+    font-size: 15px;
+    margin:5px;
+    border-color: black;   
+}
+
+.enter-email {
+    width: 341px;
+    position: relative;
+    left: 20px;
+    font-size: 15px;
+    margin:5px;
+    border-color: black;
+}
+
+.forgot-password {
+    position: relative;
+    left: 164px;
+    font-size: 16px;
+}
+
+.pass {
+    position: relative;
+    left: 25px;
+    color: black;
+    top: 11px;
+}
+
+.email {
+    position: relative;
+    left: 25px;
+    bottom: 5px;
+    
+}
+
+.sign-in {
+    position: relative;
+    left: 25px;
+    font-family:sans-serif;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+hr {
+    color: black;
+    
+}
+
+img {
+    width: 300px;
+    position: relative;
+    left: 800px;
+}
+
+.cover-up {
+    position: absolute;
+    left: 750px;
+    font-size: 420px;
+    bottom: 510px;
+    color: red;
+}
